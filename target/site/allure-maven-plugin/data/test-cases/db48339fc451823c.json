@@ -1,0 +1,56 @@
+{
+  "uid" : "db48339fc451823c",
+  "name" : "Авторизация в ЛК",
+  "fullName" : "LoginTest.loginTest[Кнопка: LOGIN_ON_RECOVERY_PASSWORD, Браузер: yandex]",
+  "historyId" : "e53270891c64e125ace9af94bd0e106f",
+  "time" : {
+    "start" : 1749993237700,
+    "stop" : 1749993249225,
+    "duration" : 11525
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "LoginTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "loginTest[Кнопка: LOGIN_ON_RECOVERY_PASSWORD, Браузер: yandex]"
+  }, {
+    "name" : "suite",
+    "value" : "LoginTest"
+  }, {
+    "name" : "host",
+    "value" : "MacBook-Pro-Ilya-2.local"
+  }, {
+    "name" : "thread",
+    "value" : "95858@MacBook-Pro-Ilya-2.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "db48339fc451823c.json",
+  "parameterValues" : [ ]
+}

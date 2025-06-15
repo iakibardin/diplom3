@@ -1,0 +1,56 @@
+{
+  "uid" : "2b4c1abd2530ec74",
+  "name" : "Проверка перехода по разделам конструктора",
+  "fullName" : "ConstructorTest.shouldSwitchSectionsCorrectly[Раздел: SAUCE, Браузер: yandex]",
+  "historyId" : "e007811fb2d9c7a43c3a4929eefb1af",
+  "time" : {
+    "start" : 1749993281670,
+    "stop" : 1749993290996,
+    "duration" : 9326
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "ConstructorTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "shouldSwitchSectionsCorrectly[Раздел: SAUCE, Браузер: yandex]"
+  }, {
+    "name" : "suite",
+    "value" : "ConstructorTest"
+  }, {
+    "name" : "host",
+    "value" : "MacBook-Pro-Ilya-2.local"
+  }, {
+    "name" : "thread",
+    "value" : "95858@MacBook-Pro-Ilya-2.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2b4c1abd2530ec74.json",
+  "parameterValues" : [ ]
+}

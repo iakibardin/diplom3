@@ -1,0 +1,56 @@
+{
+  "uid" : "8b0d5291bfa69479",
+  "name" : "Выход из Личного кабинета",
+  "fullName" : "PersonalAreaTest.exitFromLk[1]",
+  "historyId" : "8aca729da4558960add4fb2628168d4f",
+  "time" : {
+    "start" : 1749993132934,
+    "stop" : 1749993147038,
+    "duration" : 14104
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "PersonalAreaTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "exitFromLk[1]"
+  }, {
+    "name" : "suite",
+    "value" : "PersonalAreaTest"
+  }, {
+    "name" : "host",
+    "value" : "MacBook-Pro-Ilya-2.local"
+  }, {
+    "name" : "thread",
+    "value" : "95858@MacBook-Pro-Ilya-2.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8b0d5291bfa69479.json",
+  "parameterValues" : [ ]
+}
